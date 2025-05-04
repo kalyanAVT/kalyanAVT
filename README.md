@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyanAVT
 - 👀 I’m interested in ... Ai and Machine Learning
-- 🌱 I’m currently learning ... ML algorithms
+- 🌱 I’m currently learning(working) ... ML algorithms and FineTuning
 - 💞️ I’m looking to collaborate on ... On AI projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
